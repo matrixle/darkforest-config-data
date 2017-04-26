@@ -1,2 +1,3 @@
----
-darkforst-planet: earth
+my:
+	planet: earth
+	robot: c3p0
