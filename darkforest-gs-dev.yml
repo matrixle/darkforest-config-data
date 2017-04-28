@@ -1,4 +1,5 @@
 ---
-my:
+book-store: street
+global:
     planet: earth
     robot: c3p0
