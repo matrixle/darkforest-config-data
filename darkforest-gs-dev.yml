@@ -1,5 +1,3 @@
-name: fuji
-book-store: street
-global:
+my:
     planet: earth
     robot: c3p0

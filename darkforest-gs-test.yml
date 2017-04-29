@@ -1,5 +1,3 @@
-name: sonic
-book-store: cinema
-global:
+my:
     planet: moon
     robot: r2d2
