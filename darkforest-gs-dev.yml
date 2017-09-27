@@ -2,8 +2,7 @@ my:
     planet: earth
     robot: c3p0
 
----
 
 darkforest:
     eureka:
-	host: 172.17.0.4
+      host: 172.17.0.4
