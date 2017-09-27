@@ -6,3 +6,8 @@ my:
 darkforest:
     eureka:
       host: 172.17.0.4
+    mysql:
+      host: 172.17.0.3
+      database: dark_forest
+      username: darkforest
+      password: 123456
