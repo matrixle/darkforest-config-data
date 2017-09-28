@@ -6,14 +6,15 @@ darkforest:
     eureka:
       host: 172.17.0.4
     zipkin:
-      host: 172.17.0.7
+      host: 172.17.0.6
       mysql:
         host: 172.17.0.3
         database: dark_forest_zipkin
         username: darkforest
         password: 123456
-    mysql:
-      host: 172.17.0.3
-      database: dark_forest_test
-      username: darkforest
-      password: 123456
+    gs:
+      mysql:
+        host: 172.17.0.3
+        database: dark_forest_test
+        username: darkforest
+        password: 123456
